@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-830391702/WebView_Example.iml" filepath="$PROJECT_DIR$/.idea/modules/-830391702/WebView_Example.iml" group="WebView_Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="WebView_Example/app" />
+    </modules>
+  </component>
+</project>
